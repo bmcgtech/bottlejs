@@ -655,5 +655,4 @@
             root.Bottle = Bottle;
         }
     }((objectTypes[typeof window] && window) || this));
-});
-
+}.call(this));
